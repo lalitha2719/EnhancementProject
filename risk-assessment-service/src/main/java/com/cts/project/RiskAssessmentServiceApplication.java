@@ -14,7 +14,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * This is the main class for Risk Assessment
  * 
- * @author POD-6
+ * @author Lalitha Sai Jasti
  *
  */
 @SpringBootApplication
