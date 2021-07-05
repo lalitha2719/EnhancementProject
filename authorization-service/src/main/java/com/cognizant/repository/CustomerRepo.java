@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import com.cognizant.model.Customer;
 
 /**
- * @author alka0
+ * @author Lalitha Sai Jasti
  * Repository class for storing, fetching and manipulating customer data
  */
 @Repository
