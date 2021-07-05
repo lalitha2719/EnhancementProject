@@ -14,7 +14,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * Main class for collateral service
  * 
- * @author POD-6S
+ * @author Lalitha Sai Jasti
  *
  */
 @EnableSwagger2
